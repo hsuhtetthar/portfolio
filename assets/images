@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <!--google fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Anta&family=Edu+NSW+ACT+Foundation:wght@400..700&family=Noto+Serif+Myanmar:wght@100;200;300;400;500;600;700;800;900&family=Padauk:wght@400;700&family=Teko:wght@300..700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!--About of me-->
+    <header> 
+        <h1>This is my profile</h1> 
+    </header>
+
+    <section>
+                <h2>About of KOE</h2>
+                <img width="320px" src="./assets/IMG_2504.jpg" alt="">
+                <img width="320px" src="./assets/IMG_2505.jpg" alt="">
+                <img width="320px" src="./assets/IMG_2531.jpg" alt="">
+                <img width="320px" src="./assets/IMG_2503.jpg" alt="">
+                <p>I am KOE.Let me introduce myself first.I am from Myanmar.
+                I live in Yangon.I am a first year student.Now I work as 
+                a florist.That is my one of bobby.And I will start my own
+                bussiness soon.So,let me show u my art.I hope you will enjoy.
+                </p>
+        <figure>
+           <div class="bouquet">
+                <img width="250px" src="./assets/photocard.jpeg" alt="photocard">
+                <img width="230px" src="./assets/IMG_4179.jpg" alt="money">
+                <img width="240px" src="./assets/IMG_1381 (1).jpg" alt="mixed rose">
+                <img width="220px" src="./assets/IMG_8446.jpg" alt="snacks">
+                <img width="250px" src="./assets/images (1).jpeg" alt="bridal bouquet">
+        
+           </div>
+           <figcaption class="KOE's bouquet">&hearts;KOE Aesthetic Floral</figcaption>
+           <p>Hello.Welcome to  my art world,which is a very important
+            little cute things when it comes to expressing happinesss,kindness and warmth in 
+            everyone's heart.
+            It is also a very important thing when expressing love.
+            When you wanna
+            express your deeply,just remember our KOE Aesthetic Floral.We are always here for you.
+           </p>
+        </figure>
+        
+    </section>
+    
+    <!--section-->
+     <section>
+            <h2>Contact Info</h2>
+            <!--unordered lists-->
+        <ul>
+            <li id="Facebook">
+                <strong>Facebook:</strong><a href="https://www.facebook.com/profile.php?id=100054348812402&mibextid=LQQJ4d">Hsu Htet Thar</a>
+            </li>
+           
+            <li id="Email">
+             <strong>Email:</strong><a href="mailto:hhthar028278@gmail.com">hhthar028278@gmaiil.com</a>
+            </li>
+
+            <li id="Github">
+                <strong>Github:</strong><a href="https://github.com/hsuhtetthar">https://github.com/hsuhtetthar</a>
+            </li>
+
+            <li id="Instagram">
+                <strong>Instagram:</strong><a href="https://www.instagram.com/shinning_koe?igsh=MTF6NW9vbDR3cXM2Zw%3D%3D&utm_source=qr">
+                https://www.instagram.com/shinning_koe?igsh=MTF6NW9vbDR3cXM2Zw%3D%3D&utm_source=qr
+                </a>  
+            </li>
+        </ul>
+     </section>
+            <footer>
+             <h3> Made with love by KOE&hearts;</h3>
+             <div>Your Paradise&hearts;</div> 
+            </footer>
+        </body>
+</html>

@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+     --a-font: "Padauk",serif;
+     --fw-l: 300
+     --fw-b: 500
+     --fw-base: 1rem;
+     --one: rgb(199, 104, 104);
+     --two: rgb(226, 142, 142);
+     --p-color: black;
+     --bg: rgb(202, 123, 59);
+}
+
+body {
+    
+    font-family: var(--a-font);
+    background-image: url(./assets/images.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+
+img {
+    margin:30px 60px 20px 90px;
+}
+
+header h1 {
+    text-align: center;
+    padding: 10px;
+    font-size: 40px;
+}
+
+h2 {
+    background-color: var(--one);
+    text-align: center;
+    padding: 20px;
+    
+}
+figcaption {
+    text-align: center;
+    font-size: x-large;
+    margin: 20px;
+}
+
+p {
+    background-color: var(--two);
+    font-size: larger;
+    text-align: center;
+    margin: 20px;
+}
+
+#Email {
+     text-align: center;
+     background-color:bisque;
+}
+
+#Github {
+    text-align: center;
+    background-color:antiquewhite;
+}
+
+#Facebook {
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+#Instagram {
+    text-align: center;
+    background-color:bisque;
+}
+
+footer {
+    text-align:center;
+    margin: 20px;
+}
+
+h2 p {
+    text-align: center;
+    font-size: larger;
+    border: solid;
+}
