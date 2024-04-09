@@ -32,20 +32,25 @@ header h1 {
     padding: 10px;
     font-size: 40px;
 }
-
-h2 {
+.me h2 {
     background-color: var(--one);
     text-align: center;
     padding: 20px;
     
 }
+
+div.bouquet img {
+    margin:30px 60px 20px 90px;
+}
+
+
 figcaption {
     text-align: center;
     font-size: x-large;
     margin: 20px;
 }
 
-p {
+ p {
     background-color: var(--two);
     font-size: larger;
     text-align: center;
@@ -81,4 +86,9 @@ h2 p {
     text-align: center;
     font-size: larger;
     border: solid;
+}
+
+section h2 {
+    text-align: center;
+    margin: opx;
 }
